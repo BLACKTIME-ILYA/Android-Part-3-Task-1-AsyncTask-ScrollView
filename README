@@ -1,4 +1,0 @@
-Android. Part II. Fragments
-
-1. Имитация тяжелой задачи. Создать AsyncTask просто спасть N сек. Перед стартом
-вывести toast “starting...”. После выполнения “finish”.
