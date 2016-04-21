@@ -1,0 +1,4 @@
+Android. Part III (Part II. ListView, RecyclerView)
+
+1. Имитация тяжелой задачи. Создать AsyncTask просто спасть N сек. Перед стартом
+вывести toast “starting...”. После выполнения “finish”.
